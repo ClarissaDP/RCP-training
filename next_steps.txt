@@ -1,0 +1,26 @@
+
+Reunião 18-08-2017:
+- Dilatação e erosão
+  -> dilatação maior do que erosão; Dilatação = 5 e Erosão = 7 (exemplo)
+- Testar as três cores que usei no vídeo
+  -> (amarelo, azul, verde)
+  -> qual destaca mais?
+- HSV
+  -> misturar canais...
+
+
+
+
+----------------------
+Plotar:
+- Por movimento e não conforme anda?
+
+Frequência:
+- Frequência média das últimas 10 compressões
+- Frequência média das últimas 3 compressões
+- Frequência média da última compressão
+- Média da frequência total
+
+Amplitude:
+- Ver quanto está variando
+
